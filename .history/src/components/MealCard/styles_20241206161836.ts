@@ -1,0 +1,27 @@
+import styled from "styled-components/native";
+
+export const Container = styled.View`
+    width: 90%;
+    flex-direction: row;
+`;
+
+export const TimeText = styled.Text`
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+
+    align-items: center;
+    justify-content: center;
+`;
+
+export const MealText = styled.Text`
+    color: black;
+    font-size: 14px;
+
+    align-items: center;
+    justify-content: center;
+`;
+
+export const Dot = styled.Image`
+    
+`;

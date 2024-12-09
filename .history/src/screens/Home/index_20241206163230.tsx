@@ -12,7 +12,6 @@ export default function Home(){
             <Header />
 
             <PorcentageCard
-                porcentage="90,86%"
                 onPress={() => { }}
             />
 

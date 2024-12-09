@@ -11,10 +11,7 @@ export default function Home(){
         <Container>
             <Header />
 
-            <PorcentageCard
-                porcentage="90,86%"
-                onPress={() => { }}
-            />
+            <PorcentageCard />
 
             <ButtonNewMeal
                 title="+ Nova refeição"
